@@ -1,2 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/dist/css/bootstrap.css";
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../src/assets/images/martinluther.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: sticky;
+    padding: 50px;
+
+}
